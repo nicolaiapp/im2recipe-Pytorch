@@ -1,0 +1,1500 @@
+[
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "id": "000018c8a5",
+    "ingredients": [
+      {
+        "text": "penne"
+      },
+      {
+        "text": "cheese sauce"
+      },
+      {
+        "text": "cheddar cheese"
+      },
+      {
+        "text": "gruyere cheese"
+      },
+      {
+        "text": "dried chipotle powder"
+      },
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "all - purpose flour"
+      },
+      {
+        "text": "milk"
+      },
+      {
+        "text": "14 ounces semihard cheese (page 23), grated (about 3 1/2 cups)"
+      },
+      {
+        "text": "2 ounces semisoft cheese (page 23), grated (1/2 cup)"
+      },
+      {
+        "text": "kosher salt"
+      },
+      {
+        "text": "dried chipotle powder"
+      },
+      {
+        "text": "garlic powder"
+      },
+      {
+        "text": "(makes about 4 cups)"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "000033e39b",
+    "ingredients": [
+      {
+        "text": "elbow macaroni"
+      },
+      {
+        "text": "American cheese"
+      },
+      {
+        "text": "celery"
+      },
+      {
+        "text": "green peppers"
+      },
+      {
+        "text": "pimentos"
+      },
+      {
+        "text": "mayonnaise"
+      },
+      {
+        "text": "vinegar"
+      },
+      {
+        "text": "salt"
+      },
+      {
+        "text": "dry dill weed"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "000035f7ed",
+    "ingredients": [
+      {
+        "text": "tomatoes"
+      },
+      {
+        "text": "kosher salt"
+      },
+      {
+        "text": "red onion"
+      },
+      {
+        "text": "green bell pepper"
+      },
+      {
+        "text": "red bell pepper"
+      },
+      {
+        "text": "yellow bell pepper"
+      },
+      {
+        "text": "cucumber"
+      },
+      {
+        "text": "olive oil"
+      },
+      {
+        "text": "fresh basil"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00003a70b1",
+    "ingredients": [
+      {
+        "text": "milk"
+      },
+      {
+        "text": "water"
+      },
+      {
+        "text": "butter"
+      },
+      {
+        "text": "mashed potatoes"
+      },
+      {
+        "text": "whole kernel corn"
+      },
+      {
+        "text": "cheddar cheese"
+      },
+      {
+        "text": "French - fried onions"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00004320bb",
+    "ingredients": [
+      {
+        "text": "watermelon gelatin"
+      },
+      {
+        "text": "boiling water"
+      },
+      {
+        "text": "Cool Whip"
+      },
+      {
+        "text": "seedless watermelon"
+      },
+      {
+        "text": "graham cracker crust"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0000631d90",
+    "ingredients": [
+      {
+        "text": "shredded coconut"
+      },
+      {
+        "text": "lean ground beef"
+      },
+      {
+        "text": "fresh garlic"
+      },
+      {
+        "text": "salt and black pepper"
+      },
+      {
+        "text": "lemon juice"
+      },
+      {
+        "text": "soy sauce"
+      },
+      {
+        "text": "cornstarch"
+      },
+      {
+        "text": "pineapple chunks"
+      },
+      {
+        "text": "mandarin oranges"
+      },
+      {
+        "text": "cashew nuts"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "id": "000075604a",
+    "ingredients": [
+      {
+        "text": "chicken thighs"
+      },
+      {
+        "text": "tea"
+      },
+      {
+        "text": "white pepper"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00007bfd16",
+    "ingredients": [
+      {
+        "text": "fresh rhubarb"
+      },
+      {
+        "text": "frozen rhubarb"
+      },
+      {
+        "text": "granulated sugar"
+      },
+      {
+        "text": "strawberry Jell - O gelatin dessert"
+      },
+      {
+        "text": "white cake mix"
+      },
+      {
+        "text": "water"
+      },
+      {
+        "text": "butter"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "id": "000095fc1d",
+    "ingredients": [
+      {
+        "text": "non - fat vanilla yogurt"
+      },
+      {
+        "text": "strawberries"
+      },
+      {
+        "text": "low - fat granola"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0000973574",
+    "ingredients": [
+      {
+        "text": "flour"
+      },
+      {
+        "text": "cinnamon"
+      },
+      {
+        "text": "baking soda"
+      },
+      {
+        "text": "salt"
+      },
+      {
+        "text": "baking powder"
+      },
+      {
+        "text": "eggs"
+      },
+      {
+        "text": "sugar"
+      },
+      {
+        "text": "vegetable oil"
+      },
+      {
+        "text": "vanilla"
+      },
+      {
+        "text": "raw zucchini"
+      },
+      {
+        "text": "walnuts"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0000a4bcf6",
+    "ingredients": [
+      {
+        "text": "green onions"
+      },
+      {
+        "text": "red peppers"
+      },
+      {
+        "text": "1 pound salmon, fillet or steak, raw Walmart Supercenter 1 lb For $6.94 thru 02/14"
+      },
+      {
+        "text": "extra virgin olive oil"
+      },
+      {
+        "text": "ground ginger"
+      },
+      {
+        "text": "white rice"
+      },
+      {
+        "text": "mixed salad greens"
+      },
+      {
+        "text": "carrots"
+      },
+      {
+        "text": "cherry tomatoes"
+      },
+      {
+        "text": "fat - free Italian salad dressing"
+      },
+      {
+        "text": "40 piece/slice"
+      },
+      {
+        "text": "Kraft Grated Parmesan Cheese"
+      },
+      {
+        "text": "banana"
+      },
+      {
+        "text": "kiwi"
+      },
+      {
+        "text": "low - fat vanilla yogurt"
+      },
+      {
+        "text": "ground cinnamon"
+      },
+      {
+        "text": "granulated sugar"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0000b1e2b5",
+    "ingredients": [
+      {
+        "text": "fennel seeds"
+      },
+      {
+        "text": "pork tenderloin"
+      },
+      {
+        "text": "fennel bulbs"
+      },
+      {
+        "text": "olive oil"
+      },
+      {
+        "text": "garlic cloves"
+      },
+      {
+        "text": "dry white wine"
+      },
+      {
+        "text": "reduced - sodium chicken broth"
+      },
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "fresh lemon juice"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0000c79afb",
+    "ingredients": [
+      {
+        "text": "rose wine"
+      },
+      {
+        "text": "brandy"
+      },
+      {
+        "text": "orange liqueur"
+      },
+      {
+        "text": "white cranberry juice"
+      },
+      {
+        "text": "orange"
+      },
+      {
+        "text": "lemon"
+      },
+      {
+        "text": "Sprite"
+      },
+      {
+        "text": "ice cubes"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0000ed95f8",
+    "ingredients": [
+      {
+        "text": "butter"
+      },
+      {
+        "text": "brown sugar"
+      },
+      {
+        "text": "egg"
+      },
+      {
+        "text": "orange juice concentrate"
+      },
+      {
+        "text": "orange rind"
+      },
+      {
+        "text": "flour"
+      },
+      {
+        "text": "baking soda"
+      },
+      {
+        "text": "salt"
+      },
+      {
+        "text": "crushed pineapple in juice"
+      },
+      {
+        "text": "pecans"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00010379bf",
+    "ingredients": [
+      {
+        "text": "cake flour"
+      },
+      {
+        "text": "baking powder"
+      },
+      {
+        "text": "sugar"
+      },
+      {
+        "text": "white sesame seeds"
+      },
+      {
+        "text": "water"
+      },
+      {
+        "text": "vegetable oil"
+      },
+      {
+        "text": "sugar"
+      },
+      {
+        "text": "white sugar"
+      },
+      {
+        "text": "soy sauce"
+      },
+      {
+        "text": "water"
+      }
+    ]
+  },
+  {
+    "valid": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "000106ec3c",
+    "ingredients": [
+      {
+        "text": "1 can tomato sauce"
+      },
+      {
+        "text": "1 can corn"
+      },
+      {
+        "text": "medium cheddar"
+      },
+      {
+        "text": "potatoes"
+      },
+      {
+        "text": "white onion"
+      },
+      {
+        "text": "hamburger"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00010c7867",
+    "ingredients": [
+      {
+        "text": "ground beef"
+      },
+      {
+        "text": "oats"
+      },
+      {
+        "text": "tomato juice"
+      },
+      {
+        "text": "egg"
+      },
+      {
+        "text": "salt"
+      },
+      {
+        "text": "pepper"
+      },
+      {
+        "text": "chili powder"
+      },
+      {
+        "text": "onions"
+      },
+      {
+        "text": "butter"
+      },
+      {
+        "text": "flour"
+      },
+      {
+        "text": "milk"
+      },
+      {
+        "text": "cheddar cheese"
+      },
+      {
+        "text": "Mexican - style corn"
+      },
+      {
+        "text": "green peppers"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00010d44c7",
+    "ingredients": [
+      {
+        "text": "frozen chopped broccoli"
+      },
+      {
+        "text": "cooked rice"
+      },
+      {
+        "text": "shredded cheddar cheese"
+      },
+      {
+        "text": "shredded cheddar cheese"
+      },
+      {
+        "text": "eggs"
+      },
+      {
+        "text": "butter"
+      },
+      {
+        "text": "milk"
+      },
+      {
+        "text": "onion"
+      },
+      {
+        "text": "garlic powder"
+      },
+      {
+        "text": "basil"
+      },
+      {
+        "text": "oregano"
+      },
+      {
+        "text": "salt and pepper"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "id": "00011e0b2c",
+    "ingredients": [
+      {
+        "text": "marinade"
+      },
+      {
+        "text": "1 boneless beef sirloin steak (1 lb.), 3/4 inch thick Whole Foods 1 lb For $7.99 thru 02/09"
+      },
+      {
+        "text": "asparagus spears"
+      },
+      {
+        "text": "flour tortillas"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00011fc1f9",
+    "ingredients": [
+      {
+        "text": "lentils"
+      },
+      {
+        "text": "onions"
+      },
+      {
+        "text": "tomatoes"
+      },
+      {
+        "text": "carrots"
+      },
+      {
+        "text": "celery"
+      },
+      {
+        "text": "extra virgin olive oil"
+      },
+      {
+        "text": "garlic powder"
+      },
+      {
+        "text": "fresh ginger root juice"
+      },
+      {
+        "text": "vegetable broth"
+      },
+      {
+        "text": "white pepper"
+      },
+      {
+        "text": "chili powder"
+      },
+      {
+        "text": "water"
+      },
+      {
+        "text": "salt and black pepper"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "000128a538",
+    "ingredients": [
+      {
+        "text": "soymilk"
+      },
+      {
+        "text": "frozen blueberries"
+      },
+      {
+        "text": "rolled oats"
+      },
+      {
+        "text": "sweetened flaked coconut"
+      },
+      {
+        "text": "pecans"
+      },
+      {
+        "text": "vanilla yogurt"
+      }
+    ]
+  },
+  {
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00013266c9",
+    "ingredients": [
+      {
+        "text": "1 box salted soda crackers (I use saltines)"
+      },
+      {
+        "text": "salted butter"
+      },
+      {
+        "text": "granulated sugar"
+      },
+      {
+        "text": "vanilla extract"
+      },
+      {
+        "text": "salted nuts"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00015b5a39",
+    "ingredients": [
+      {
+        "text": "potatoes"
+      },
+      {
+        "text": "1 can beef broth"
+      },
+      {
+        "text": "1 can water"
+      },
+      {
+        "text": "red wine"
+      },
+      {
+        "text": "teriyaki sauce"
+      },
+      {
+        "text": "garlic"
+      },
+      {
+        "text": "sour cream"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00016355e6",
+    "ingredients": [
+      {
+        "text": "vanilla wafer cookie"
+      },
+      {
+        "text": "bananas"
+      },
+      {
+        "text": "coconut milk"
+      },
+      {
+        "text": "fat - free half - and - half"
+      },
+      {
+        "text": "vanilla extract"
+      },
+      {
+        "text": "stevia"
+      },
+      {
+        "text": "ice cubes"
+      },
+      {
+        "text": "whipped cream"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001678f7a",
+    "ingredients": [
+      {
+        "text": "rice paper sheets"
+      },
+      {
+        "text": "halibut"
+      },
+      {
+        "text": "foie gras"
+      },
+      {
+        "text": "12 long chive batons"
+      },
+      {
+        "text": "salt and black pepper"
+      },
+      {
+        "text": "chives"
+      },
+      {
+        "text": "truffle oil"
+      },
+      {
+        "text": "foie gras"
+      },
+      {
+        "text": "egg"
+      },
+      {
+        "text": "heavy cream"
+      },
+      {
+        "text": "white truffle oil"
+      },
+      {
+        "text": "chicken breasts"
+      },
+      {
+        "text": "chives"
+      },
+      {
+        "text": "salt and black pepper"
+      },
+      {
+        "text": "spaghetti squash"
+      },
+      {
+        "text": "butter"
+      },
+      {
+        "text": "honey"
+      },
+      {
+        "text": "minced ginger"
+      },
+      {
+        "text": "salt and black pepper"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00016d71a4",
+    "ingredients": [
+      {
+        "text": "graham wafers"
+      },
+      {
+        "text": "vanilla ice cream"
+      },
+      {
+        "text": "frozen lemonade concentrate"
+      },
+      {
+        "text": "chocolate chips"
+      },
+      {
+        "text": "butter"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      false,
+      true
+    ],
+    "id": "00018371f2",
+    "ingredients": [
+      {
+        "text": "juice"
+      },
+      {
+        "text": "1 box Certo Pectin Crystals"
+      },
+      {
+        "text": "granulated sugar"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001960f61",
+    "ingredients": [
+      {
+        "text": "cinnamon - swirl bread"
+      },
+      {
+        "text": "cream cheese"
+      },
+      {
+        "text": "apples"
+      },
+      {
+        "text": "eggs"
+      },
+      {
+        "text": "half - and - half"
+      },
+      {
+        "text": "butter"
+      },
+      {
+        "text": "maple syrup"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "00019675ca",
+    "ingredients": [
+      {
+        "text": "crabmeat"
+      },
+      {
+        "text": "sour cream"
+      },
+      {
+        "text": "whipped cream cheese"
+      },
+      {
+        "text": "cheese"
+      },
+      {
+        "text": "bacon bits"
+      },
+      {
+        "text": "cilantro"
+      },
+      {
+        "text": "cajun seasoning"
+      },
+      {
+        "text": "garlic powder"
+      },
+      {
+        "text": "onion powder"
+      },
+      {
+        "text": "pepper"
+      },
+      {
+        "text": "salt"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001a2f336",
+    "ingredients": [
+      {
+        "text": "sweet Italian sausage"
+      },
+      {
+        "text": "mozzarella cheese"
+      },
+      {
+        "text": "italian seasoning"
+      },
+      {
+        "text": "garlic salt"
+      },
+      {
+        "text": "spaghetti sauce"
+      },
+      {
+        "text": "olive oil"
+      },
+      {
+        "text": "pizza dough"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001bdeec0",
+    "ingredients": [
+      {
+        "text": "leeks"
+      },
+      {
+        "text": "smoked bacon"
+      },
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "kosher salt"
+      },
+      {
+        "text": "fresh ground black pepper"
+      },
+      {
+        "text": "red potatoes"
+      },
+      {
+        "text": "garlic"
+      },
+      {
+        "text": "fresh thyme"
+      },
+      {
+        "text": "eggs"
+      },
+      {
+        "text": "half - and - half"
+      },
+      {
+        "text": "jarlsberg cheese"
+      },
+      {
+        "text": "nutmeg"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001cba765",
+    "ingredients": [
+      {
+        "text": "orange juice"
+      },
+      {
+        "text": "white tequila"
+      },
+      {
+        "text": "triple sec"
+      },
+      {
+        "text": "cranberry juice"
+      },
+      {
+        "text": "orange wedges"
+      },
+      {
+        "text": "coarse sugar"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001d356b6",
+    "ingredients": [
+      {
+        "text": "granulated sugar"
+      },
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "egg whites"
+      },
+      {
+        "text": "lemons, zest of"
+      },
+      {
+        "text": "lemons, juice of"
+      },
+      {
+        "text": "all - purpose flour"
+      },
+      {
+        "text": "baking powder"
+      },
+      {
+        "text": "baking soda"
+      },
+      {
+        "text": "salt"
+      },
+      {
+        "text": "buttermilk"
+      },
+      {
+        "text": "blueberries"
+      },
+      {
+        "text": "granulated sugar"
+      },
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "cream cheese"
+      },
+      {
+        "text": "powdered sugar"
+      },
+      {
+        "text": "vanilla extract"
+      },
+      {
+        "text": "salt"
+      }
+    ]
+  },
+  {
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "id": "0001d6acb7",
+    "ingredients": [
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "all - purpose flour"
+      },
+      {
+        "text": "whole milk"
+      },
+      {
+        "text": "monterey jack cheese"
+      },
+      {
+        "text": "poblano chiles"
+      },
+      {
+        "text": "salt & freshly ground black pepper"
+      },
+      {
+        "text": "cilantro leaves"
+      },
+      {
+        "text": "Dijon mustard"
+      },
+      {
+        "text": "whole grain mustard"
+      },
+      {
+        "text": "honey"
+      },
+      {
+        "text": "warm water"
+      },
+      {
+        "text": "light muscovado sugar"
+      },
+      {
+        "text": "1 package active dry yeast"
+      },
+      {
+        "text": "unsalted butter"
+      },
+      {
+        "text": "kosher salt"
+      },
+      {
+        "text": "all - purpose flour"
+      },
+      {
+        "text": "vegetable oil"
+      },
+      {
+        "text": "water"
+      },
+      {
+        "text": "baking soda"
+      },
+      {
+        "text": "eggs"
+      },
+      {
+        "text": "coarse sea salt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "ingredients": [
+      {
+        "text": "6 ounces penne"
+      },
+      {
+        "text": "2 cups Beechers Flagship Cheese Sauce (recipe follows)"
+      },
+      {
+        "text": "1 ounce Cheddar, grated (1/4 cup)"
+      },
+      {
+        "text": "1 ounce Gruyere cheese, grated (1/4 cup)"
+      },
+      {
+        "text": "1/4 to 1/2 teaspoon chipotle chili powder (see Note)"
+      },
+      {
+        "text": "1/4 cup (1/2 stick) unsalted butter"
+      },
+      {
+        "text": "1/3 cup all-purpose flour"
+      },
+      {
+        "text": "3 cups milk"
+      },
+      {
+        "text": "14 ounces semihard cheese (page 23), grated (about 3 1/2 cups)"
+      },
+      {
+        "text": "2 ounces semisoft cheese (page 23), grated (1/2 cup)"
+      },
+      {
+        "text": "1/2 teaspoon kosher salt"
+      },
+      {
+        "text": "1/4 to 1/2 teaspoon chipotle chili powder"
+      },
+      {
+        "text": "1/8 teaspoon garlic powder"
+      },
+      {
+        "text": "(makes about 4 cups)"
+      }
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/-world-s-best-mac-and-cheese-387747",
+    "partition": "train",
+    "title": "Worlds Best Mac and Cheese",
+    "id": "000018c8a5",
+    "instructions": [
+      {
+        "text": "Preheat the oven to 350 F. Butter or oil an 8-inch baking dish."
+      },
+      {
+        "text": "Cook the penne 2 minutes less than package directions."
+      },
+      {
+        "text": "(It will finish cooking in the oven.)"
+      },
+      {
+        "text": "Rinse the pasta in cold water and set aside."
+      },
+      {
+        "text": "Combine the cooked pasta and the sauce in a medium bowl and mix carefully but thoroughly."
+      },
+      {
+        "text": "Scrape the pasta into the prepared baking dish."
+      },
+      {
+        "text": "Sprinkle the top with the cheeses and then the chili powder."
+      },
+      {
+        "text": "Bake, uncovered, for 20 minutes."
+      },
+      {
+        "text": "Let the mac and cheese sit for 5 minutes before serving."
+      },
+      {
+        "text": "Melt the butter in a heavy-bottomed saucepan over medium heat and whisk in the flour."
+      },
+      {
+        "text": "Continue whisking and cooking for 2 minutes."
+      },
+      {
+        "text": "Slowly add the milk, whisking constantly."
+      },
+      {
+        "text": "Cook until the sauce thickens, about 10 minutes, stirring frequently."
+      },
+      {
+        "text": "Remove from the heat."
+      },
+      {
+        "text": "Add the cheeses, salt, chili powder, and garlic powder."
+      },
+      {
+        "text": "Stir until the cheese is melted and all ingredients are incorporated, about 3 minutes."
+      },
+      {
+        "text": "Use immediately, or refrigerate for up to 3 days."
+      },
+      {
+        "text": "This sauce reheats nicely on the stove in a saucepan over low heat."
+      },
+      {
+        "text": "Stir frequently so the sauce doesnt scorch."
+      },
+      {
+        "text": "This recipe can be assembled before baking and frozen for up to 3 monthsjust be sure to use a freezer-to-oven pan and increase the baking time to 50 minutes."
+      },
+      {
+        "text": "One-half teaspoon of chipotle chili powder makes a spicy mac, so make sure your family and friends can handle it!"
+      },
+      {
+        "text": "The proportion of pasta to cheese sauce is crucial to the success of the dish."
+      },
+      {
+        "text": "It will look like a lot of sauce for the pasta, but some of the liquid will be absorbed."
+      }
+    ]
+  },
+  {
+    "ingredients": [
+      {
+        "text": "1 c. elbow macaroni"
+      },
+      {
+        "text": "1 c. cubed American cheese (4 ounce.)"
+      },
+      {
+        "text": "1/2 c. sliced celery"
+      },
+      {
+        "text": "1/2 c. minced green pepper"
+      },
+      {
+        "text": "3 tbsp. minced pimento"
+      },
+      {
+        "text": "1/2 c. mayonnaise or possibly salad dressing"
+      },
+      {
+        "text": "1 tbsp. vinegar"
+      },
+      {
+        "text": "3/4 teaspoon salt"
+      },
+      {
+        "text": "1/2 teaspoon dry dill weed"
+      }
+    ],
+    "url": "http://cookeatshare.com/recipes/dilly-macaroni-salad-49166",
+    "partition": "train",
+    "title": "Dilly Macaroni Salad Recipe",
+    "id": "000033e39b",
+    "instructions": [
+      {
+        "text": "Cook macaroni according to package directions; drain well."
+      },
+      {
+        "text": "Cold."
+      },
+      {
+        "text": "Combine macaroni, cheese cubes, celery, green pepper and pimento."
+      },
+      {
+        "text": "Blend together mayonnaise or possibly salad dressing, vinegar, salt and dill weed; add in to macaroni mix."
+      },
+      {
+        "text": "Toss lightly."
+      },
+      {
+        "text": "Cover and refrigeratewell."
+      },
+      {
+        "text": "Serve salad in lettuce lined bowl if you like."
+      },
+      {
+        "text": "Makes 6 servings."
+      }
+    ]
+  },
+  {
+    "ingredients": [
+      {
+        "text": "8 tomatoes, quartered"
+      },
+      {
+        "text": "Kosher salt"
+      },
+      {
+        "text": "1 red onion, cut into small dice"
+      },
+      {
+        "text": "1 green bell pepper, cut into small dice"
+      },
+      {
+        "text": "1 red bell pepper, cut into small dice"
+      },
+      {
+        "text": "1 yellow bell pepper, cut into small dice"
+      },
+      {
+        "text": "1/2 cucumber, cut into small dice"
+      },
+      {
+        "text": "Extra-virgin olive oil, for drizzling"
+      },
+      {
+        "text": "3 leaves fresh basil, finely chopped"
+      }
+    ],
+    "url": "http://www.foodnetwork.com/recipes/gazpacho1.html",
+    "partition": "train",
+    "title": "Gazpacho",
+    "id": "000035f7ed",
+    "instructions": [
+      {
+        "text": "Add the tomatoes to a food processor with a pinch of salt and puree until smooth."
+      },
+      {
+        "text": "Combine the onions, bell peppers and cucumbers with the tomato puree in a large bowl."
+      },
+      {
+        "text": "Chill at least 1 hour."
+      },
+      {
+        "text": "Drizzle with olive oil, garnish with chopped basil and serve."
+      }
+    ]
+  }
+]
